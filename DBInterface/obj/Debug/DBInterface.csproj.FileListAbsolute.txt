@@ -1,0 +1,16 @@
+c:\users\dovor\documents\visual studio 2015\Projects\DBInterface\DBInterface\bin\Debug\DBInterface.exe.config
+C:\Users\dovor\Documents\Visual Studio 2015\Projects\DBInterface\DBInterface\obj\Debug\DBInterface.csprojResolveAssemblyReference.cache
+C:\Users\dovor\Documents\Visual Studio 2015\Projects\DBInterface\DBInterface\obj\Debug\DBInterface.Properties.Resources.resources
+C:\Users\dovor\Documents\Visual Studio 2015\Projects\DBInterface\DBInterface\obj\Debug\DBInterface.csproj.GenerateResource.Cache
+C:\Users\dovor\Documents\Visual Studio 2015\Projects\DBInterface\DBInterface\bin\Debug\DBInterface.exe
+C:\Users\dovor\Documents\Visual Studio 2015\Projects\DBInterface\DBInterface\bin\Debug\DBInterface.pdb
+C:\Users\dovor\Documents\Visual Studio 2015\Projects\DBInterface\DBInterface\obj\Debug\DBInterface.exe
+C:\Users\dovor\Documents\Visual Studio 2015\Projects\DBInterface\DBInterface\obj\Debug\DBInterface.pdb
+C:\Users\dovor\Documents\Visual Studio 2015\Projects\DBInterface\DBInterface\obj\Debug\DBInterface.LoginForm.resources
+C:\Users\dovor\Documents\Visual Studio 2015\Projects\DBInterface\DBInterface\obj\Debug\DBInterface.AddHumanForm.resources
+C:\Users\dovor\Documents\Visual Studio 2015\Projects\DBInterface\DBInterface\obj\Debug\DBInterface.AddWorkerForm.resources
+C:\Users\dovor\Documents\Visual Studio 2015\Projects\DBInterface\DBInterface\obj\Debug\DBInterface.AddArchievement.resources
+C:\Users\dovor\Documents\Visual Studio 2015\Projects\DBInterface\DBInterface\obj\Debug\DBInterface.AddPlace.resources
+C:\Users\dovor\Documents\Visual Studio 2015\Projects\DBInterface\DBInterface\obj\Debug\DBInterface.AddTypeOfArchivement.resources
+C:\Users\dovor\Documents\Visual Studio 2015\Projects\DBInterface\DBInterface\obj\Debug\DBInterface.CreatePlace.resources
+C:\Users\dovor\Documents\Visual Studio 2015\Projects\DBInterface\DBInterface\obj\Debug\DBInterface.Form10.resources
